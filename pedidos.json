@@ -1,0 +1,90 @@
+{
+   "jose daniel": {
+      "sombras": [
+         {
+            "producto": "sombra de ojos",
+            "nombre producto": "sombras neutras",
+            "cantidad": 1,
+            "subtotal": 22000
+         }
+      ],
+      "base": [
+         {
+            "producto": "base de maquillaje",
+            "nombre producto": "base perfecta",
+            "cantidad": 3,
+            "subtotal": 75000
+         }
+      ],
+      "identificador": "perritodamian",
+      "pagado": false
+   },
+   "juan david": {
+      "base": [
+         {
+            "producto": "base de maquillaje",
+            "nombre producto": "base perfecta",
+            "cantidad": 3,
+            "subtotal": 75000
+         }
+      ],
+      "identificador": "perritodamian",
+      "pagado": false
+   },
+   "leonardo dicaprio": {
+      "mascaras": [
+         {
+            "producto": "mascara de pesta\u00f1as",
+            "nombre producto": "mascara de pesta\u00f1as alargadora",
+            "cantidad": 3,
+            "subtotal": 75000
+         }
+      ],
+      "sombras": [
+         {
+            "producto": "sombra de ojos",
+            "nombre producto": "sombras neutras",
+            "cantidad": 2,
+            "subtotal": 44000
+         }
+      ],
+      "identificador": "25",
+      "pagado": false
+   },
+   "Julieta reyes": {
+      "labiales": [
+         {
+            "producto": "labial",
+            "nombre producto": "labial liquido mate",
+            "cantidad": 2,
+            "subtotal": 36000
+         },
+         {
+            "producto": "labial",
+            "nombre producto": "brillo de labios transparente",
+            "cantidad": 1,
+            "subtotal": 12000
+         }
+      ],
+      "sombras": [
+         {
+            "producto": "sombra de ojos",
+            "nombre producto": "sombras neutras",
+            "cantidad": 2,
+            "subtotal": 44000
+         }
+      ],
+      "base": [
+         {
+            "producto": "base de maquillaje",
+            "nombre producto": "base perfecta",
+            "cantidad": 1,
+            "subtotal": 25000
+         }
+      ],
+      "identificador": "dante",
+      "pagado": true,
+      "fecha_pago": "21/05/2024 - 08:25:21",
+      "total": 117000
+   }
+}
